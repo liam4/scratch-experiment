@@ -1,0 +1,9 @@
+[submodule "scratch-vm"]
+	path = scratch-vm
+	url = https://github.com/LLK/scratch-vm
+[submodule "scratch-blocks"]
+	path = scratch-blocks
+	url = https://github.com/LLK/scratch-blocks
+[submodule "closure-library"]
+	path = closure-library
+	url = https://github.com/google/closure-library
